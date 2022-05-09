@@ -1,5 +1,5 @@
 # A-Randomized-Subspace-based-Approach-for-Dimensionality-Reduction-and-Important-Variable-Selection
-A Randomized Subspace-based Approach for Dimensionality Reduction and Important Variable Selection.
+A Randomized Subspace-based Approach for Dimensionality Reduction and Important Variable Selection. This method achieves dimensionality reduction and feature selection considering feature interactions. The result is interpretable.
 
 Plesase cite us if these materials are helpful.
 
